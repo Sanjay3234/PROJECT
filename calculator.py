@@ -1,3 +1,4 @@
+# calculator project
 name=input("PLEASE ENTER YOUR NAME =")
 while name.isalpha()==False or len(name)<8 :
     if ' ' in name:
